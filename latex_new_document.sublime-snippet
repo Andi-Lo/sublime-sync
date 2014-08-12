@@ -1,0 +1,54 @@
+<snippet>
+	<content><![CDATA[
+% Dokumentation Mobile Anwendungen
+
+\documentclass[a4paper,11pt,singlespacing]{article}
+\usepackage[left=2.5cm,right=2.5cm,top=2.5cm]{geometry}
+\usepackage[hyphens]{url}	         			%Umbrüche nach '-' erlauben 
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{pdflscape}          					%für einzelne Seiten im Querformat
+\usepackage{graphicx}               			%für Bilder
+\usepackage{listings}
+\pagestyle{myheadings}
+\markright{\centerline{Mobile Anwendungen - Einkaufslisten App}}
+\author{Alexej Nitzel, Andreas Lorer}
+
+\graphicspath{{images/}}            
+\setlength{\parindent}{0ex}         			% Absatzeinrueckung verhindern
+
+\begin{document}
+	% document styles for listings
+	\lstset{
+		%numbers=left,
+		basicstyle=\ttfamily,
+		language=bash,
+		keywordstyle=\color{blue},
+		commentstyle=\color{green},
+		xleftmargin=0.5cm
+	}
+
+	%Deckblatt
+	\newcommand{\titleForTitlepage}{Einkaufslisten App}
+	\input{../deckblatt/deckblatt_v0-2}
+
+	\tableofcontents 												%Inhaltsverzeichnis
+	\thispagestyle{empty}
+	\pagebreak
+
+	\pagebreak
+	\bibliography{}
+	\bibliographystyle{plain}
+	\end{document}
+]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>texdoc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

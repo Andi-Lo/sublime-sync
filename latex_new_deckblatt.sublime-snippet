@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+\begin{titlepage}
+  \begin{center}
+
+    % Upper part of the page
+    \includegraphics[width=0.5\textwidth]{../deckblatt/images/HS_RV_Elektro}\\\[2cm]    
+    {\huge \bfseries \titleForTitlepage}\\\[0.5cm]
+    
+   % Zusammenfassung
+    \begin{abstract}
+      \noindent
+      zusammenfassung\\\[1cm]
+    \end{abstract}
+
+    {\large \today}\\\[1cm]
+    \vspace{5cm}
+
+    % Authoren
+    \begin{flushleft}\large
+    \emph{Autoren:}\\\
+      \begin{tabbing}
+        \hspace*{5cm}\=\hspace*{5cm}\= \kill
+        22652 | Andreas \textsc{Lorer} \> \href{mailto:andreas.lorer@hs-weingarten.de}{\nolinkurl{andreas.lorer@hs-weingarten.de} }\\\[0.5cm]
+
+      \end{tabbing}
+    \end{flushleft}
+   \end{center}
+   \vfill
+\end{titlepage}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>newd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

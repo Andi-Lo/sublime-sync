@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+@online{${1:refName},
+	author = {${2:author}},
+	title = {Datei:${3:dateiName}},
+	howpublished = {\url{${4:url}} (Aufgerufen am ${5:tag}.${6:monat}.201${7:4})},
+	year = {201${8:x}-2014},
+	note = {${9:}}
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@on</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.bibtex</scope>
+	<description>@online Bibtex</description>
+</snippet>

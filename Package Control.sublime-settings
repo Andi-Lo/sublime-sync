@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Auto Semi-Colon",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeCompile",
+		"Color Highlighter",
+		"Dictionaries",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"jQuery Snippets pack",
+		"LaTeXTools",
+		"LiveStyle",
+		"Markdown Preview",
+		"PackageResourceViewer",
+		"Sass",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Syntax Highlighting for Sass",
+		"Theme - Soda",
+		"XSLT Snippets"
+	]
+}
