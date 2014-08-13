@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wd:group id="${1:content${2:1-8}}" name="${3:name}"${4:/}>${6:}${5:</wd:group>}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wdg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.xml.xsl</scope>
+	<description>wd:group</description>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>$1</title>
+	<link rel="stylesheet" href="$2">
+</head>
+<body>
+
+<div class="container">
+	$3
+</div><!-- ./container -->
+
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>newhtml</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php,text.html</scope>
+	<description>New Html Skeleton</description>
+</snippet>

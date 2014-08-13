@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<wd:item id="${1:id-name}" type="${2:headline}" name="${3:Überschrift}"${4: icon="${5:path}"}>
+		$6
+</wd:item>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wditem</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.xml.xsl</scope>
+	<description>wd:item</description>
+</snippet>

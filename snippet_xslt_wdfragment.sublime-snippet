@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<wd:fragment id="${1:title}" type="${2:type.name}"${3:/}> ${5:} ${4:</wd:fragment>}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wdf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.xml.xsl</scope>
+	<description>wd:fragment</description>
+</snippet>
