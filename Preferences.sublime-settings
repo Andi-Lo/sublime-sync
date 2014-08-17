@@ -1,7 +1,7 @@
 {
 	"auto_complete_delay": 1,
 	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"
