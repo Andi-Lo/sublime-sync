@@ -1,7 +1,16 @@
 {
-	"auto_complete_delay": 1,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 0,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "text.html"
+		}
+	],
 	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
-	"font_size": 9,
+	"drag_text": false,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -10,6 +19,7 @@
 	[
 		80
 	],
-	"tab_size": 2,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme"
 }
