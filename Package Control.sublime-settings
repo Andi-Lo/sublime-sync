@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"Alternate VIM Navigation",
 		"Auto Semi-Colon",
 		"auto-save",
@@ -22,6 +23,8 @@
 		"Monokai Extended",
 		"PackageResourceViewer",
 		"Sass",
+		"SCSS",
+		"SCSS Snippets",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
