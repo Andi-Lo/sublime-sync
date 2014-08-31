@@ -1,6 +1,5 @@
 [
 	{ "keys": ["ctrl+shift+o"], "command": "alignment" },
-	{ "keys": ["ctrl+shift+alt+s"], "command": "auto_save" },
 	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
 ]

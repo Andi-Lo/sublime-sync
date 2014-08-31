@@ -17,6 +17,7 @@
 * next / prev edit point between tags: ```strg + alt + left / right```
 * recursive searching: ``` strg + shift + f```
 * expand tag: ```strg + e ```
+* calculate values: ``` strg + shift + y ```
 
 ## <a name="Themes"></a>Themes
 ## <a name="Spacegrey"></a>Spacegrey
