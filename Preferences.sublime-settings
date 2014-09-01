@@ -8,7 +8,7 @@
 			"selector": "text.html"
 		}
 	],
-	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/Grey (SL).tmTheme",
 	"drag_text": false,
 	"font_size": 9,
 	"ignored_packages":
@@ -22,5 +22,5 @@
 	],
 	"save_on_focus_lost": true,
 	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme"
+	"theme": "Soda Light 3.sublime-theme"
 }
