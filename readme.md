@@ -18,6 +18,11 @@
 * recursive searching: ``` strg + shift + f```
 * expand tag: ```strg + e ```
 * calculate values: ``` strg + shift + y ```
+* update imagesize (2x the values for retina reso.) ``` strg + u ```
+* update as you type (add a class to div ect) ``` strg + shift + u ```
+* delete Tag ``` strg + shift + x ``` 
+* rename Tag ``` strg + shift + r ``` 
+
 
 ## <a name="Themes"></a>Themes
 ## <a name="Spacegrey"></a>Spacegrey
