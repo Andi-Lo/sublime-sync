@@ -14,7 +14,8 @@
 	"ignored_packages":
 	[
 		"auto-save",
-		"Vintage"
+		"Vintage",
+		"CSS"
 	],
 	"rulers":
 	[
