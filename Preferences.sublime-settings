@@ -8,13 +8,14 @@
 			"selector": "text.html"
 		}
 	],
-	"color_scheme": "Packages/User/Grey (SL).tmTheme",
+	"color_scheme": "Packages/Frontend Light Color Scheme/Grey.tmTheme",
 	"drag_text": false,
 	"font_size": 9,
 	"ignored_packages":
 	[
 		"auto-save",
-		"Vintage"
+		"Vintage",
+		"SublimeCodeIntel"
 	],
 	"rulers":
 	[
