@@ -15,7 +15,8 @@
 	[
 		"auto-save",
 		"Vintage",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"CSS",
 	],
 	"rulers":
 	[
