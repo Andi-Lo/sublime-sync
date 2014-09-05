@@ -2,6 +2,7 @@
 	{ "keys": ["ctrl+shift+o"], "command": "alignment" },
 	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} },
 	{
 	    "keys": [
 	        "shift+ctrl+x"

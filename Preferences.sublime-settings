@@ -10,20 +10,21 @@
 	],
 	"color_scheme": "Packages/Frontend Light Color Scheme/Grey.tmTheme",
 	"drag_text": false,
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"auto-save",
 		"Vintage",
 		"SublimeCodeIntel",
-		"CSS",
+		"All Autocomplete",
+		"CSS"
 	],
 	"rulers":
 	[
 		80
 	],
 	"save_on_focus_lost": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Soda Light 3.sublime-theme",
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }
