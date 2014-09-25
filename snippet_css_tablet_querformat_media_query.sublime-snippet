@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@media screen and (max-width: 1199px) {
+	$0
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tabq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.scss, source.css</scope>
+	<desciprtion>Tablet Querformat</desciprtion>
+</snippet>

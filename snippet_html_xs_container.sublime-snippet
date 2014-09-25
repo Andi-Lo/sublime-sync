@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="col-xs-${1:}">
+	$0
+</div>  <!-- ./col-xs-${1:} -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>xs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html, text.html.basic</scope>
+	<description>Xs Column-Container</description>
+</snippet>
