@@ -6,7 +6,8 @@
 * [Themes](#Themes)
 	* [Spacegrey](#Spacegrey)
 	* [Flatland](#Flatland)
-	* [Soda](#Soda)
+  * [Soda](#Soda)
+  * [Seti](#seti)
 
 ## <a name="Shortcuts"></a>Shortcuts
 
@@ -77,5 +78,14 @@
 
 {
     "theme": "Soda Dark 3.sublime-theme"
+}
+```
+
+## <a name="Seti"></a>Seti_UI
+```
+{
+  "theme": "Seti.sublime-theme",
+  "color_scheme": "Packages/Seti_UI/Seti.tmTheme",
+  "caret_extra_width": 2 // to have a wider/thicker caret
 }
 ```

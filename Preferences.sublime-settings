@@ -8,16 +8,18 @@
 			"selector": "text.html"
 		}
 	],
-	"color_scheme": "Packages/Frontend Light Color Scheme/Grey.tmTheme",
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"drag_text": false,
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
-		"auto-save",
-		"Vintage",
 		"SublimeCodeIntel",
+		"CSS",
+		"LiveStyle",
+		"LaTeXTools",
 		"All Autocomplete",
-		"CSS"
+		"Vintage"
 	],
 	"rulers":
 	[
@@ -25,6 +27,6 @@
 	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }
