@@ -9,24 +9,23 @@
 		}
 	],
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"drag_text": false,
-	"font_size": 11,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"SublimeCodeIntel",
-		"CSS",
-		"LiveStyle",
-		"LaTeXTools",
 		"All Autocomplete",
-		"Vintage"
+		"CSS",
+		"Alternate VIM Navigation",
+		"SublimeCodeIntel",
+		"LiveStyle"
 	],
 	"rulers":
 	[
 		80
 	],
 	"save_on_focus_lost": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Seti.sublime-theme",
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }

@@ -1,23 +1,39 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Auto Semi-Colon",
+		"Autoprefixer",
+		"Better CoffeeScript",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"C++ Starting Kit",
 		"Clickable URLs",
+		"Color Highlighter",
 		"CSS3",
 		"DocBlockr",
 		"Emmet",
-		"Emmet Css Snippets",
 		"Frontend Light Color Scheme",
+		"FuzzyFilePath",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery Snippets pack",
+		"JSHint Gutter",
 		"LaTeXTools",
 		"LiveStyle",
 		"Markdown Preview",
 		"Monokai Extended",
+		"Open in Default Application",
+		"Package Control",
 		"PackageResourceViewer",
 		"Sass",
 		"SASS Build",
@@ -31,6 +47,7 @@
 		"Theme - Flatland",
 		"Theme - Soda",
 		"Theme - Spacegray",
+		"Web Inspector",
 		"XSLT Snippets"
 	]
 }

@@ -1,0 +1,7 @@
+{
+	"cmd": ["pdflatex", "$file_name"],
+		"selector": "text.tex.latex",
+	"cmd": ["biber", "thesis"],
+	"cmd": ["pdflatex", "$file_name"],
+		"selector": "text.tex.latex"
+}
