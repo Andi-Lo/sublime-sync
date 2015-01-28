@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-% Dokumentation Mobile Anwendungen
+% Dokumentation Your title
 
 \documentclass[a4paper,11pt,singlespacing]{article}
 \usepackage[left=2.5cm,right=2.5cm,top=2.5cm]{geometry}
-\usepackage[hyphens]{url}	         			%Umbrüche nach '-' erlauben 
+\usepackage[hyphens]{url}	       		%Umbrüche nach '-' erlauben 
 \usepackage{hyperref}
 \usepackage{setspace}
 \usepackage[utf8]{inputenc}
@@ -12,12 +12,12 @@
 \usepackage[ngerman]{babel}
 \usepackage{color}
 \usepackage{hyperref}
-\usepackage{pdflscape}          					%für einzelne Seiten im Querformat
-\usepackage{graphicx}               			%für Bilder
+\usepackage{pdflscape}
+\usepackage{graphicx}
 \usepackage{listings}
 \pagestyle{myheadings}
-\markright{\centerline{Mobile Anwendungen - Einkaufslisten App}}
-\author{Alexej Nitzel, Andreas Lorer}
+\markright{\centerline{Your title}}
+\author{Andreas Lorer}
 
 \graphicspath{{images/}}            
 \setlength{\parindent}{0ex}         			% Absatzeinrueckung verhindern
@@ -34,8 +34,8 @@
 	}
 
 	%Deckblatt
-	\newcommand{\titleForTitlepage}{Einkaufslisten App}
-	\input{../deckblatt/deckblatt_v0-2}
+	\newcommand{\titleForTitlepage}{Your title}
+	\input{../deckblatt/deckblatt}
 
 	\tableofcontents 												%Inhaltsverzeichnis
 	\thispagestyle{empty}
