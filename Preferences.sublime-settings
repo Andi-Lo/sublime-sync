@@ -11,11 +11,12 @@
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
 	"drag_text": false,
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"",
-		"CSS"
+		"CSS",
+		"All Autocomplete",
+		"Alternate VIM Navigation"
 	],
 	"rulers":
 	[
