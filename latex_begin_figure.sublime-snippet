@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{${1:filename}.jpg}
+		\caption{${2:Description}}
+		\label{fig$3:$1}
+	\end{center}
+\end{figure}
+$0
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bfigure</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+	<description>Begin_Figure</description>
+</snippet>
