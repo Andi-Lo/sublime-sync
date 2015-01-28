@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-% Dokumentation Mobile Anwendungen
 
 \documentclass[a4paper,11pt,singlespacing]{article}
 \usepackage[left=2.5cm,right=2.5cm,top=2.5cm]{geometry}
@@ -16,8 +15,8 @@
 \usepackage{graphicx}               			%für Bilder
 \usepackage{listings}
 \pagestyle{myheadings}
-\markright{\centerline{Mobile Anwendungen - Einkaufslisten App}}
-\author{Alexej Nitzel, Andreas Lorer}
+\markright{\centerline{Your Title}}
+\author{Andreas Lorer}
 
 \graphicspath{{images/}}            
 \setlength{\parindent}{0ex}         			% Absatzeinrueckung verhindern
@@ -34,7 +33,7 @@
 	}
 
 	%Deckblatt
-	\newcommand{\titleForTitlepage}{Einkaufslisten App}
+	\newcommand{\titleForTitlepage}{Your Title}
 	\input{../deckblatt/deckblatt_v0-2}
 
 	\tableofcontents 												%Inhaltsverzeichnis
@@ -48,7 +47,7 @@
 ]]>
 	</content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>texdoc</tabTrigger>
+	<tabTrigger>newtex</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.tex.latex</scope>
 </snippet>

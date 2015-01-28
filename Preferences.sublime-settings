@@ -9,17 +9,13 @@
 		}
 	],
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
 	"drag_text": false,
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"SublimeCodeIntel",
-		"CSS",
-		"LiveStyle",
-		"LaTeXTools",
-		"All Autocomplete",
-		"Vintage"
+		"",
+		"CSS"
 	],
 	"rulers":
 	[

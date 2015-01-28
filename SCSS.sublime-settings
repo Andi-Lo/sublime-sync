@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		"scss.erb"
-	]
+    "extensions": [
+        "scss.erb",
+        "scss",
+        "scss.liquid"
+    ]
 }
