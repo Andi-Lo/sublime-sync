@@ -1,16 +1,16 @@
 <snippet>
 	<content><![CDATA[
-@misc{${1:refName},
+@techreport{${1:refName},
 	author = "${2:author}",
 	title = "${3:Titel}",
 	year = "${4:year}",
-	howpublished = "\url{${5:the-url}} [Aufgerufen am ${6:date}]",
+	institution = "${5:institution}",
 }
 $0
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>misc</tabTrigger>
+	<tabTrigger>techreport</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.bibtex</scope>
 	<description>@online Bibtex</description>
