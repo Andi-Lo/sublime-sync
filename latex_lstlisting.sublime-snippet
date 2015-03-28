@@ -1,10 +1,13 @@
 <snippet>
 	<content><![CDATA[
-"`$1"'$0
+\begin{lstlisting}[captionpos=b, caption=$1, label=lst:$2]
+	$3
+\end{lstlisting}
+	$0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>""</tabTrigger>
+	<tabTrigger>lsting</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.tex.latex</scope>
-	<description>Add "`quotes"'</description>
+	<description>Listing env.</description>
 </snippet>
