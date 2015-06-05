@@ -2,32 +2,28 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Auto Semi-Colon",
+		"AutoFileName",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
-		"C++ Starting Kit",
 		"Clickable URLs",
 		"Color Highlighter",
+		"Colorcoder",
 		"CSS3",
 		"DocBlockr",
 		"Emmet",
 		"Frontend Light Color Scheme",
-		"Haml",
 		"FuzzyFilePath",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"JavaScript Completions",
 		"jQuery Snippets pack",
+		"JSHint",
 		"JSHint Gutter",
 		"LaTeXTools",
 		"Markdown Preview",
@@ -41,7 +37,11 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Syntax Highlighting for Sass",
 		"Theme - Flatland",
 		"Theme - Soda",
