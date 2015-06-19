@@ -6,6 +6,7 @@
 	[
 		"AdvancedNewFile",
 		"Auto Semi-Colon",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Clickable URLs",
@@ -35,6 +36,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Syntax Highlighting for Sass",
 		"Theme - Flatland",
 		"Theme - Soda",
