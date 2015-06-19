@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+&#8221;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>uq</tabTrigger>
+	<description>Upper Quotation Mark Unicode</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
