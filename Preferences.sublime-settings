@@ -9,20 +9,20 @@
 		}
 	],
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Colorcoder/Seti (Colorcoded) (Colorcoded).tmTheme",
+	"color_scheme": "Packages/Colorcoder/Seti (Colorcoded).tmTheme",
 	"drag_text": false,
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Alternate VIM Navigation",
-		"Color Highlighter"
+		"Color Highlighter",
+		"Markdown"
 	],
-	"original_color_scheme": "Packages/User/Color Highlighter/themes/Seti (Colorcoded).tmTheme",
+	"original_color_scheme": "Packages/Seti_UX/Seti.tmTheme",
 	"rulers":
 	[
 	],
-	"save_on_focus_lost": false,
+	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "Seti.sublime-theme",
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"

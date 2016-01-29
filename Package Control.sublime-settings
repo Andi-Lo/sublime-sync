@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -23,8 +24,10 @@
 		"LaTeXTools",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownLight",
 		"Monokai Extended",
 		"Open in Default Application",
+		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"PackageResourceViewer",
 		"Seti_UI",
